@@ -34,8 +34,8 @@ export function publicUrlFor(path) {
 
 export const companyDetails = {
   name: "Flamingo",
-  number: "+0000000000",
-  address: "ABC Street, City, Country",
+  number: "+91-7330690244",
+  address: "126-A Nandi paradise",
   email: "abc@xyz.com",
 };
 
