@@ -36,7 +36,7 @@ export const companyDetails = {
   name: "Flamingo",
   number: "+91-7330690244",
   address: "126-A Nandi paradise",
-  email: "abc@xyz.com",
+  email: "info@flamingoaura.com",
 };
 
 export function loadScript(src, fromPublic) {
